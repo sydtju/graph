@@ -1,4 +1,4 @@
-//邻接矩阵表示图
+//邻接矩阵表示图  这里的操作是有向图的操作  如果是无向图的话 应该在addline中加入两条边   无向图的矩阵是对称矩阵
 #ifndef _GRAPH_H
 #define _GRAPH_H
 #include <utility>
